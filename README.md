@@ -1,4 +1,4 @@
-# XulbuX Neon Pro
+<center># XulbuX Neon Pro</center>
 
 ## A THEME WHICH FOCUSES ON CLEAR & BEAUTIFUL COLORS
 
