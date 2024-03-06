@@ -58,15 +58,15 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 > **PYTHON**
 
-<img src="./preview/img/python_neon.png" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="preview/img/python_neon.png" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="./preview/img/java_neon.png" alt="Java Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="preview/img/java_neon.png" alt="Java Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="./preview/img/cpp_neon.png" alt="C++ Code Preview" width="300" height="auto" align="center"></img><br><br>
+<img src="preview/img/cpp_neon.png" alt="C++ Code Preview" width="300" height="auto" align="center"></img><br><br>
 
 
 
@@ -74,15 +74,15 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 > **PYTHON**
 
-<img src="./preview/img/python_neon-pro.png" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="preview/img/python_neon-pro.png" alt="Python Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **JAVA**
 
-<img src="./preview/img/java_neon-pro.png" alt="Java Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="preview/img/java_neon-pro.png" alt="Java Code Preview" width="300" height="auto" align="center"></img><br>
 
 > **C++**
 
-<img src="./preview/img/cpp_neon-pro.png" alt="C++ Code Preview" width="300" height="auto" align="center"></img><br>
+<img src="preview/img/cpp_neon-pro.png" alt="C++ Code Preview" width="300" height="auto" align="center"></img><br>
 
 <br>
 <br>
