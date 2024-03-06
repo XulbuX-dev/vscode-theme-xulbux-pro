@@ -1,8 +1,8 @@
-# XulbuX Neon Pro
+# <font color='#7075FF'>XulbuX</font> <font color='#77FFEF'>Neon</font> <font color='#2BFFAB'>Pro</font>
 
 ## A THEME WHICH FOCUSES ON CLEAR & BEAUTIFUL COLORS
 
-<font color='#8085FF'>This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting.</font>
+This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting.
 
 **Apply one of the themes:**
 
