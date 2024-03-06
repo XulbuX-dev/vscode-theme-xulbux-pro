@@ -6,9 +6,9 @@ p1 { color:#FF80CC }
 o1 { color:#FF9500 }
 </style>
 
-# `<b1>`XulbuX`</b1>` `<g1>`Neon`</g1>` `<g2>`Pro`</g2>`
+# <b1>XulbuX</b1> <g1>Neon</g1> <g2>Pro</g2>
 
-## A THEME WHICH FOCUSES ON `<p1>`CLEAR & BEAUTIFUL COLORS`</p1>`
+## A THEME WHICH FOCUSES ON <p1>CLEAR & BEAUTIFUL COLORS</p1>
 
 This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting.
 
@@ -52,4 +52,4 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 ---
 
-# `<o1>`Enjoy!`</o1>`
+# <o1>Enjoy!</o1>
