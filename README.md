@@ -1,6 +1,13 @@
-# <font color="#7075FF">XulbuX</font> <font color="#77FFEF">Neon</font> <font color="#2BFFAB">Pro</font>
+<style>
+b1 { color:#7075FF }
+g1 { color:#77FFEF }
+g2 { color:#2BFFAB }
+p1 { color:#FF80CC }
+</style>
 
-## <font color="#FF80CC">A THEME WHICH FOCUSES ON CLEAR & BEAUTIFUL COLORS</font>
+# <b1>XulbuX</b1> <g1>Neon</g1> <g2>Pro</g2>
+
+## A THEME WHICH FOCUSES ON <p1>CLEAR & BEAUTIFUL COLORS</p1>
 
 This VisualStudioCode extension contains two themes, which both try to make VSCode look good and do very clear syntax highlighting.
 
@@ -17,15 +24,15 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 **PYTHON**
 
-![Python Code Preview](preview/img/ex-python_neon.png)
+<img src="preview/img/ex-python_neon.png" width=300 alt="Python Code Preview">
 
 **JAVA**
 
-![Java Code Preview](preview/img/ex-java_neon.png)
+<img src="preview/img/ex-java_neon.png" width=300 alt="Java Code Preview">
 
 **C++**
 
-![C++ Code Preview](preview/img/ex-c++_neon.png)
+<img src="preview/img/ex-c++_neon.png" width=300 alt="C++ Code Preview">
 
 ---
 
@@ -33,15 +40,15 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 **PYTHON**
 
-![Python Code Preview](preview/img/ex-python_neon-pro.png)
+<img src="preview/img/ex-python_neon-pro.png" width=300 alt="Python Code Preview">
 
 **JAVA**
 
-![Java Code Preview](preview/img/ex-java_neon-pro.png)
+<img src="preview/img/ex-java_neon-pro.png" width=300 alt="Java Code Preview">
 
 **C++**
 
-![C++ Code Preview](preview/img/ex-c++_neon-pro.png)
+<img src="preview/img/ex-c++_neon-pro.png" width=300 alt="C++ Code Preview">
 
 ---
 
