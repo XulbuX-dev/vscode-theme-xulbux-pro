@@ -87,7 +87,7 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 <br>
 <br>
 
-___
+---
 # <orange><b>Enjoy!</b></orange>
 
 <br>
