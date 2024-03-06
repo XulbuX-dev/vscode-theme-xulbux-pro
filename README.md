@@ -3,6 +3,7 @@ b1 { color:#7075FF }
 g1 { color:#77FFEF }
 g2 { color:#2BFFAB }
 p1 { color:#FF80CC }
+o1 { color:#FF9500 }
 </style>
 
 # <b1>XulbuX</b1> <g1>Neon</g1> <g2>Pro</g2>
@@ -22,15 +23,15 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 ### XulbuX Neon:
 
-**PYTHON**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **PYTHON**
 
 <img src="preview/img/ex-python_neon.png" width=300 alt="Python Code Preview">
 
-**JAVA**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **JAVA**
 
 <img src="preview/img/ex-java_neon.png" width=300 alt="Java Code Preview">
 
-**C++**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C++**
 
 <img src="preview/img/ex-c++_neon.png" width=300 alt="C++ Code Preview">
 
@@ -38,18 +39,18 @@ This VisualStudioCode extension contains two themes, which both try to make VSCo
 
 ### XulbuX Neon Pro:
 
-**PYTHON**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **PYTHON**
 
 <img src="preview/img/ex-python_neon-pro.png" width=300 alt="Python Code Preview">
 
-**JAVA**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **JAVA**
 
 <img src="preview/img/ex-java_neon-pro.png" width=300 alt="Java Code Preview">
 
-**C++**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **C++**
 
 <img src="preview/img/ex-c++_neon-pro.png" width=300 alt="C++ Code Preview">
 
 ---
 
-# Enjoy!
+# <o1>Enjoy!</o1>
