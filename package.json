@@ -1,0 +1,36 @@
+{
+  "name": "theme-xulbux-neon-pro",
+  "displayName": "XulbuX Neon Pro",
+  "description": "A crisp dark-theme with powerful colors and very clear syntax highlighting.",
+  "publisher": "xulbux",
+  "version": "1.0.9",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "icon": "icons/XulbuX_Logo.png",
+  "author": {
+    "name": "Julian B.",
+    "email": "thejulian069@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/XulbuX-dev/vscode-theme-xulbux-pro.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XulbuX Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xulbux-neon.json"
+      },
+      {
+        "label": "XulbuX Neon Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xulbux-neon-pro.json"
+      }
+    ]
+  }
+}
